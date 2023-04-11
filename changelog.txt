@@ -1,0 +1,7 @@
+Title: pig
+V1.0
+added - gui with roll and bank buttons.
+added - sounds for roll and bank.
+added - functions for playying sounds (win, lose, bank, roll, pig.)
+added -  function which randomly selects a pig sound.
+       For when user rolls a pig (number 1)
